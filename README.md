@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying IT at Colmar's IUT<br>❤️ I like web and Python<br>🌱 I’m currently learning ReactJS
+🔭 I’m currently studying IT at Colmar's UIT<br>❤️ I like web and Python<br>🌱 I’m currently learning ReactJS
 
 
 ## 🌐 Socials:
