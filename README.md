@@ -150,6 +150,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/IroN404/IroN404/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/IroN404/IroN404/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 ###
